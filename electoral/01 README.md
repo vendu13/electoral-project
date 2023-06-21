@@ -1,0 +1,17 @@
+
+
+ADMIN PANEL LOGIN DETAILS
+ 
+Username: codeprojects
+Password: password
+
+
+
+CREATE A DATABASE NAMING "votesystem" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+ 
+
+
+
+

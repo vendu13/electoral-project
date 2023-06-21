@@ -1,0 +1,4 @@
+[27-May-2022 11:44:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/rupartbj/public_html/electoral/tcpdf/tcpdf.php on line 17778
+[27-May-2022 11:44:07 UTC] PHP Warning:  chr() expects parameter 1 to be int, string given in /home1/rupartbj/public_html/electoral/tcpdf/include/tcpdf_fonts.php on line 1671
+[06-Jun-2022 12:43:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/rupartbj/public_html/electoral/tcpdf/tcpdf.php on line 17778
+[06-Jun-2022 12:43:24 UTC] PHP Warning:  chr() expects parameter 1 to be int, string given in /home1/rupartbj/public_html/electoral/tcpdf/include/tcpdf_fonts.php on line 1671
