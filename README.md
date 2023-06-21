@@ -1,4 +1,4 @@
-# electoral-project
+# Electoral-Project
 A php based project with in built admin portal and functionality for users to Vote and conduct elections.
 ADMIN PANEL LOGIN DETAILS
 
